@@ -9,5 +9,5 @@ private float f;
    RemoteAdapter(float f){}
    RemoteAdapter(int i){System.err.println(i);}
    
-   
+   //test prefs
 }
