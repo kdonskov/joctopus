@@ -3,5 +3,5 @@ package org.joctopus.test;
 public class RemoteAdapter {
    RemoteAdapter(){}
    RemoteAdapter(float f){}
-   RemoteAdapter(int i){}
+   RemoteAdapter(int i){System.err.println(i);}
 }
