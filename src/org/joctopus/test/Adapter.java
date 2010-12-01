@@ -5,5 +5,6 @@ public class Adapter {
 	public Adapter() {
 		System.out.println("remote");
 	}
+	
 
 }
